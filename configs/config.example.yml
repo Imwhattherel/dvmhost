@@ -385,9 +385,9 @@ system:
         # DMR network ID.
         dmrNetId: 1
         # P25 Network ID (WACN).
-        netId: BB800
+        netId: DEE00
         # P25/NXDN System ID.
-        sysId: 001
+        sysId: 21F
         # P25 RFSS (RF Sub-System) ID.
         rfssId: 1
         # DMR/P25/NXDN Site ID.
